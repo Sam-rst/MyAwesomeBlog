@@ -1,1 +1,1 @@
-# SN2-CoursBlogMaintenance
+# MyAwesomeBlog
